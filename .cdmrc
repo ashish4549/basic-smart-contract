@@ -1,3 +1,2 @@
 terminal-one: npm install hardhat
-terminal-two:  
 tabs: ['README.md']
